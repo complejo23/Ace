@@ -3,8 +3,10 @@
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M. LaLiga 1080 MultiAudio  1969
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LaLiga 1080 multiaudio N 7314
-acestream://731428b18eb656121990261c1b072b13f7caef30
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LaLiga 1440 79e3
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M. LaLiga 1080 aa82
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M. LaLiga 720  f031
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" ,DAZN LaLiga 1080 MultiAudio  1960
@@ -57,24 +59,26 @@ acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 6" tvg-logo="https://telegra.ph/file/6726d0894872da50d69d8.jpg" ,M. LaLiga 6 1080  c896
 acestream://c896d37778f9e43549a788fc22206a655895b51b
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 6 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" ,M.L. Campeones 6 SD  e995
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 6 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" ,M.L. Campeones 6 SD  e995
 acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M.L. Campeones 7 SD  d84a
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M.L. Campeones 7 SD  d84a
 acestream://d84a90adb6998083403f610ab3fae340b5711b1e
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M.L. Campeones 8 SD  fdd9
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M.L. Campeones 8 SD  fdd9
 acestream://fdd9e3660059051660dbd7857443c2b807f258d0
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 9 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 9 SD  69c9
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 9 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 9 SD  69c9
 acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 10 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 10 SD  df67
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 10 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 10 SD  df67
 acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 11 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 11 SD  57e2
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 11 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 11 SD  57e2
 acestream://57e284a3c13100baeff7a88dc50949585c9f1277
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 12 SD  3336
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 12 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 12 SD  3336
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  5789
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  9dad
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD  6b94
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 720  e1fc
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080  8ca0
@@ -113,8 +117,6 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M. Golf 1080  4f94
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="LaLiga TV BAR HD" tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" ,LaLiga TV Bar 1080  aa82
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LaLiga Hypermotion 1080  4c46
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LaLiga Hypermotion 720  06b3
@@ -211,3 +213,13 @@ acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 #EXTINF:-1 group-title="Otros" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 M+ HD 1080  864f
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 group-title="La Liga F" tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg", LaLiga F 1 d6cd
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="La Liga F" tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg", LaLiga F 2 4af5
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="La Liga F" tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg", LaLiga F 3 1629
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 group title="La Liga F" tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg", LaLiga F 4 e454
+acestream://e454681a152a86da504e63694f17f90d0586867d
+#EXTINF:-1 group-title="Movistar" tvg-id="M plus" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" ,M plus 1080  5a23
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0

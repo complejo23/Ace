@@ -13,8 +13,6 @@ acestream://f031f5728b32f6089dda28edebe990cf198108d8
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" ,DAZN LaLiga 1080 MultiAudio  7525
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" ,Dazn LaLiga 1080 multiaudio N  95b2
-acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" ,DAZN LaLiga 720  a3bc
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio  931b
@@ -213,8 +211,8 @@ acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 #EXTINF:-1 group-title="Otros" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 M+ HD 1080  864f
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 group-title="La Liga F" tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg", LaLiga F 1 d6cd
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="La Liga F" tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg", LaLiga F 1 6002
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 group-title="La Liga F" tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg", LaLiga F 2 4af5
 acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 #EXTINF:-1 group-title="La Liga F" tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg", LaLiga F 3 1629

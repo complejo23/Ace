@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 group-title="SuperCopa" tvg-id="M plus" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" ,M plus 1080  5a23
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="SuperCopa" tvg-id="SuperCopa" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" ,SuperCopa 1080  8ba7
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M. LaLiga 1080 MultiAudio  7d8c
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M. LaLiga 1080 MultiAudio  1969

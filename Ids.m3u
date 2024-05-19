@@ -39,22 +39,34 @@ acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://telegra.ph/file/968c9d7eb40340bae2eab.jpg" ,M. LaLiga 3 1080  4c48
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://telegra.ph/file/968c9d7eb40340bae2eab.jpg" ,M. LaLiga 3 1080  4c48
+acestream://de52318ab15c921d8d5c036c5f33562382b5ae71
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3 HD" tvg-logo="https://telegra.ph/file/6ede7767f85ffeecc9901.jpg" ,DAZN LaLiga 3 1080 MultiAudio  8c71
 acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3 HD" tvg-logo="https://telegra.ph/file/6ede7767f85ffeecc9901.jpg" ,DAZN LaLiga 3 1080 MultiAudio  8c71
+acestream://3d0b2395098452617097896abb38956965b8a396
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 1080  ecf4
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 720  d59f
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://telegra.ph/file/9706db24e007948767d6e.jpg" ,M. LaLiga 4 1080  aa8f
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://telegra.ph/file/9706db24e007948767d6e.jpg" ,M. LaLiga 4 1080  aa8f
+acestream://5c2ee247211b205f64ef1cf90ef5c45408657326
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4 HD" tvg-logo="https://telegra.ph/file/42064e09047a580ce96ec.jpg" ,DAZN LaLiga 4 1080 MultiAudio  2792
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4 HD" tvg-logo="https://telegra.ph/file/42064e09047a580ce96ec.jpg" ,DAZN LaLiga 4 1080 MultiAudio  2792
+acestream://6e97745e481ee0be3b48720d4bfead7da2f08689
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M.L. Campeones 4 SD  1a1b
 acestream://1a1b528109edead1904e3dbff575637a452dd1fa
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 5" tvg-logo="https://telegra.ph/file/597c0cdd125c9199ed9da.jpg" ,M. LaLiga 5 1080  5353
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 5" tvg-logo="https://telegra.ph/file/597c0cdd125c9199ed9da.jpg" ,M. LaLiga 5 1080  5353
+acestream://c661bee7afd61d487ce085a1667c4f2b91d6675d
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5 HD" tvg-logo="https://telegra.ph/file/624c6d029f44ad117a801.jpg" ,DAZN LaLiga 5 1080 MultiAudio  99e5
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5 HD" tvg-logo="https://telegra.ph/file/624c6d029f44ad117a801.jpg" ,DAZN LaLiga 5 1080 MultiAudio  99e5
+acestream://45db6feb1a8da2690a948532efd771992a7ea7c9
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 5 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M.L. Campeones 5 SD  4b4a
 acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 6" tvg-logo="https://telegra.ph/file/6726d0894872da50d69d8.jpg" ,M. LaLiga 6 1080  c896
